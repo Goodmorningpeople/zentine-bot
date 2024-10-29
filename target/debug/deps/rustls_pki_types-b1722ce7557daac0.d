@@ -1,0 +1,10 @@
+/Users/ihateapple/Documents/zentine-bot/target/debug/deps/librustls_pki_types-b1722ce7557daac0.rmeta: /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs
+
+/Users/ihateapple/Documents/zentine-bot/target/debug/deps/librustls_pki_types-b1722ce7557daac0.rlib: /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs
+
+/Users/ihateapple/Documents/zentine-bot/target/debug/deps/rustls_pki_types-b1722ce7557daac0.d: /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs
+
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/lib.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/base64.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/server_name.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustls-pki-types-1.10.0/src/pem.rs:

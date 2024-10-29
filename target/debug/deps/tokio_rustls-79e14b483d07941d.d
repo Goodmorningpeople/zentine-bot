@@ -1,0 +1,9 @@
+/Users/ihateapple/Documents/zentine-bot/target/debug/deps/libtokio_rustls-79e14b483d07941d.rmeta: /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/lib.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/client.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/mod.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/handshake.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/server.rs
+
+/Users/ihateapple/Documents/zentine-bot/target/debug/deps/tokio_rustls-79e14b483d07941d.d: /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/lib.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/client.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/mod.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/handshake.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/server.rs
+
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/lib.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/client.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/mod.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/handshake.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/server.rs:

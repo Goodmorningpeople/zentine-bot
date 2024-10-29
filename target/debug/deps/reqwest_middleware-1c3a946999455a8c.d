@@ -1,0 +1,9 @@
+/Users/ihateapple/Documents/zentine-bot/target/debug/deps/libreqwest_middleware-1c3a946999455a8c.rmeta: /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/lib.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/client.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/error.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/middleware.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/req_init.rs
+
+/Users/ihateapple/Documents/zentine-bot/target/debug/deps/reqwest_middleware-1c3a946999455a8c.d: /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/lib.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/client.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/error.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/middleware.rs /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/req_init.rs
+
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/lib.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/client.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/error.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/middleware.rs:
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/reqwest-middleware-0.2.5/src/req_init.rs:
